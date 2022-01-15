@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p align = "left" > 
-   <img align = "right" src ="https://i.gifer.com/8Ajz.gif" height ="280px">
+<p align = "right" > 
+   <img align = "right" src ="https://i.imgur.com/oIXjACX.gif"" height ="280px">
 
 I’m **Alexandr** :bowtie: My current specialization is CNC programmer. We write programs on G-code applying simple text editor or special software. G-code is a programming language for CNC machines. We use this language to tell a machine what to do or where to move and what path to follow.
 ___
