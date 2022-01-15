@@ -7,7 +7,7 @@ One upon time, while tightening :wrench: a regular nut for 32:nut_and_bolt: at w
 After looking at several **programming languages** I chose **Java** :100: Presently, I combine job’s duties with java learning.
 ___
 
-## At the present time looking for Java juniour developer.
+## At the present time looking for Java juniour developer:raising_hand:
 
 ### Here are some ideas to get you started:
 
