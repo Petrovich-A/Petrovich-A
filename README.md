@@ -21,10 +21,9 @@ ___
 
 #### 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 
-| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | SQL | 𝗚𝗜𝗧 |
-| ------------- | ------------- |------------- |------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="45px" src="https://cdn.svgporn.com/logos/java.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg"> |
-
+| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | SQL | 𝗚𝗜𝗧 | NySQL|
+| ------------- | ------------- |------------- |------------- |------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="45px" src="https://cdn.svgporn.com/logos/java.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/mysql.svg">
 
 ## **My contacts information**
 
