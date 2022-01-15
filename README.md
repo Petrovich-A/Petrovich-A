@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align = "left" > 
+   <img align = "right" src ="https://i.gifer.com/8Ajz.gif" height ="280px">
+
 I’m **Alexandr** :bowtie: My current specialization is CNC programmer. We write programs on G-code applying simple text editor or special software. G-code is a programming language for CNC machines. We use this language to tell a machine what to do or where to move and what path to follow.
 ___
 One upon time, while tightening :wrench: a regular nut for 32:nut_and_bolt: at work, I realized that I **want more from life**. My current purpose is changing specialization. Consequently, I got involved in programming and would like to become a java developer.
