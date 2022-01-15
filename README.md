@@ -10,8 +10,6 @@ One upon time, while tightening :wrench: a regular nut for 32:nut_and_bolt: at w
 After looking at several **programming languages** I chose **Java** :100: Presently, I combine job’s duties with java learning.
 ___
 
-## At the present time looking for Java juniour developer:raising_hand:
-
 ### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on final Epam's training web app project using java 
@@ -22,7 +20,9 @@ ___
 - 📫 I believe people can change through working hard and getting out of your comfort zone :seedling:
 - ⚡ Fun fact: spent a lot of time to run project using Intellij IDEA, wich have run on Eclipse
 
-#### 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+## At the present time looking for Java juniour developer:raising_hand:
+                                                                               
+#### My tech stack
 
 | 𝗛𝗧𝗠𝗟5 | 𝗖𝗦𝗦3 | SQL | 𝗚𝗜𝗧 | NySQL| Spring |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
