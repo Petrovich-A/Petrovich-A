@@ -28,7 +28,7 @@ ___
 | ---- | --- | ---- | --- | ---- | ------ | --------- |-------------|
 |<img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">|<img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg">|<img height="45px" src="https://cdn.svgporn.com/logos/java.svg">|<img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">|<img height="45px" src="https://cdn.svgporn.com/logos/mysql.svg">|<img height="30px" src="https://cdn.svgporn.com/logos/spring-icon.svg">|<img height="30px" src="https://cdn.svgporn.com/logos/hibernate.svg">|<img height="30px" align="center" src="https://cdn.svgporn.com/logos/tomcat.svg">|
 
-## **My contacts information**
+## **My contacts information:**
 
 - :mailbox: a.piatrovich@gmail.com
 - :link: https://www.linkedin.com/in/petroviсh-alexаndr/
