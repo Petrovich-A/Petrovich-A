@@ -15,7 +15,7 @@ ___
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on final Epam's training project Java web application [a link] (https://github.com/Petrovich-A/CNC-programs-storage)
+- 🔭 I’m currently working on final Epam's training project Java web application [CNC-programs-storage](https://github.com/Petrovich-A/CNC-programs-storage)
 - 🌱 I’m currently learning Spring
 - 👯 I’m looking to collaborate on people who have entered in IT sfere
 - 🤔 I’m looking for help with Mockito usecases
