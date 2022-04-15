@@ -2,8 +2,8 @@
    <img align = "right" src ="https://i.imgur.com/oIXjACX.gif"" height ="280px">
 
 * [Self-presentation](#presentation)
-* [My tech stack](#stack)
-* [My tech stack](#contacts)
+* [Tech stack](#stack)
+* [Contacts information](#contacts)
 <a name="presentation"></a>  
 ### Hi there 👋
 I’m **Alexandr** :bowtie: My current specialization is CNC programmer. We write programs on G-code applying simple text editor or special software. G-code is a programming language for CNC machines. We use this language to tell a machine what to do or where to move and what path to follow.
@@ -15,7 +15,7 @@ ___
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on final Epam's training project Java web application https://github.com/Petrovich-A/CNC-programs-storage
+- 🔭 I’m currently working on final Epam's training project Java web application [a link] (https://github.com/Petrovich-A/CNC-programs-storage)
 - 🌱 I’m currently learning Spring
 - 👯 I’m looking to collaborate on people who have entered in IT sfere
 - 🤔 I’m looking for help with Mockito usecases
