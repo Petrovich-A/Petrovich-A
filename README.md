@@ -38,3 +38,7 @@ ___
 - :mailbox: a.piatrovich@gmail.com
 - :link: https://www.linkedin.com/in/petroviсh-alexаndr/
 - :telephone_receiver: +375 29 94 77205
+                  
+                  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+                  
