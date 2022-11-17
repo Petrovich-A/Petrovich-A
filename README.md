@@ -1,10 +1,16 @@
-<p align = "right" >
-   <img align = "right" src ="https://i.imgur.com/oIXjACX.gif"" height ="280px">
-
-<h1 align="center">Hi there 👋 I’m Alexandr :bowtie:</h1>
-                  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
+  <img src="https://i.imgur.com/oIXjACX.gif" 
+     alt="logo" width="300" height="auto" />
+  <h1>Hi there 👋 I’m Alexandr :bowtie:</h1>
+  <br />
+ 
+<!-- Badges -->
+<p>
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Petrovich-A/JavaFX">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Petrovich-A/JavaFX">
+</p>
+<h4>
+<p>
 <a href="https://www.linkedin.com/in/petroviсh-alexаndr/" target="blank">
 <img align="center" src="https://static.cdn.wisestamp.com/wp-content/uploads/2020/06/connect-with-me-linkedin-button.png" alt="gfhfgh" height="60" width="190" /></a>
 <a href="https://instagram.com/fhf](https://instagram.com/john_.shade?igshid=YmMyMTA2M2Y=" target="blank">
@@ -12,6 +18,9 @@
 <a href="https://instagram.com/fhf](https://www.gmail.com" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="fhf" height="60" width="60" /></a>
 </p>
+</h4>
+</div>
+<br />
 
 * [Self-presentation](#presentation)
 * [Languages and Tools](#stack)
