@@ -1,15 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/oIXjACX.gif" 
-     alt="logo" width="300" height="auto" />
-  <h1>Hi there 👋 I’m Alexandr :bowtie:</h1>
-  <br />
+  
+![Systems and technology programming company logo_cr](https://user-images.githubusercontent.com/75426047/207108590-3e090c72-decd-4a00-9d85-8d0141e39970.png)
  
-<!-- Badges -->
-<p>
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Petrovich-A/JavaFX">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Petrovich-A/JavaFX">
-</p>
-<h4>
 <p>
 <a href="https://www.linkedin.com/in/petroviсh-alexаndr/" target="blank">
 <img align="center" src="https://static.cdn.wisestamp.com/wp-content/uploads/2020/06/connect-with-me-linkedin-button.png" alt="gfhfgh" height="60" width="190" /></a>
@@ -18,18 +10,24 @@
 <a href="https://instagram.com/fhf](https://www.gmail.com" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="fhf" height="60" width="60" /></a>
 </p>
-</h4>
+
+<!-- Badges -->
+<p>
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Petrovich-A/JavaFX">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Petrovich-A/JavaFX">
+</p>
+  
 </div>
-<br />
 
 * [Self-presentation](#presentation)
 * [Languages and Tools](#stack)
 * [My top open source projects](#projects)
 * [Some statistics](#statistics)
-                  
+
+### Self-presentation                
 <a name="presentation"></a>  
 
-I'm a CNC programmer with over 10 years of practical experience, specialized in launching units into production. Our compamny is the major global manufacturer of mining dump trucks. Working with coworkers in our department we deal with designing CNC machinery programs (applying G-code is a programming language for CNC machines) with following adjustment the machine for processing parts.
+Hi there 👋 I’m Alexandr :bowtie: I'm a CNC programmer with over 10 years of practical experience, specialized in launching units into production. Our compamny is the major global manufacturer of mining dump trucks. Working with coworkers in our department we deal with designing CNC machinery programs (applying G-code is a programming language for CNC machines) with following adjustment the machine for processing parts.
 
 One upon time, while tightening :wrench: a regular nut for 32:nut_and_bolt: at work, I realized that I **want more from life**. 
 
@@ -41,6 +39,7 @@ ___
 
 ### Here are some ideas that assosiatiated:
 
+
 - 🔭 I’m currently working on [JavaFX application](https://github.com/Petrovich-A/JavaFX)                     
 - 🌱 Currently concentrated on Java learning, ameliorating my web application design proficiency with Spring Framework and Hibernate technology. No doubt, Enterprise Java Development is not the easiest thing, however I'd like to be part of a company that invents new software products and makes the customer's business easier and more efficient.
 - :construction_worker: My previose position taught me to work independently without excessive anxiety of colleagues on minor occasions. I'm able to  find solutions of task by myself.
@@ -48,8 +47,8 @@ ___
 - :muscle: My interpersonale skills is my strenght. I'm taught myself to use my empathy and build work relations with colleagues of different personality types.
 - :chart_with_upwards_trend: I believe people can change through working hard and getting out of your comfort zone.
 
+### Languages and Tools
 <a name="stack"></a>  
-<h3 align="left">Languages and Tools:</h3>
                 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -69,15 +68,19 @@ ___
 <img src="https://cdn.svgporn.com/logos/hibernate.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 ### My top open source projects:
+<a name="projects"></a>  
+
 <div align="center">
 <a href="https://github.com/Petrovich-A/CNC-programs-storage"><img src="https://gh-card.dev/repos/Petrovich-A/CNC-programs-storage.svg"></a>
 <a href="https://github.com/Petrovich-A/JavaFXgruvbox_light"><img src="https://gh-card.dev/repos/Petrovich-A/JavaFX.svg"></a>
 </div>
 
 ### Some statistics:
+<a name="statistics"></a>  
+
 <div align="center">
 
-![Petrovich-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petrovich-A&show_icons=true&theme=gruvbox_light)
+![Petrovich-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petrovich-A&bg_color=#2a446b&title_color=fff&text_color=fff&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrovich-A&layout=compact&theme=gruvbox_light)
 </div>
