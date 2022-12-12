@@ -28,7 +28,7 @@
 <a name="presentation"></a>  
 
 I'm a CNC programmer with over 10 years of practical experience, specialized in launching units into production. Our compamny is the major global manufacturer of mining dump trucks. Working with coworkers in our department we deal with designing CNC machinery programs (applying G-code is a programming language for CNC machines) with following adjustment the machine for processing parts.
-___
+
 One upon time, while tightening :wrench: a regular nut for 32:nut_and_bolt: at work, I realized that I **want more from life**. 
 
 However, taken by the idea of coding seeking new opportunities to change specialization and to grow as a **Java developer**. 
@@ -65,5 +65,12 @@ ___
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </a> <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.svgporn.com/logos/hibernate.svg" alt="spring" width="40" height="40"/> </a> </p>
-                  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrovich-A&theme=tokyonight)
+
+<div align="center">
+<a href="https://github.com/Petrovich-A/CNC-programs-storage"><img src="https://gh-card.dev/repos/Petrovich-A/CNC-programs-storage.svg"></a>
+<a href="https://github.com/Petrovich-A/JavaFXgruvbox_light"><img src="https://gh-card.dev/repos/Petrovich-A/JavaFX.svg"></a>
+
+![Petrovich-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petrovich-A&show_icons=true&theme=gruvbox_light)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrovich-A&layout=compact&theme=gruvbox_light)
+</div>
