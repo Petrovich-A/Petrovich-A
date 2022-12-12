@@ -24,6 +24,8 @@
 
 * [Self-presentation](#presentation)
 * [Languages and Tools](#stack)
+* [My top open source projects](#projects)
+* [Some statistics](#statistics)
                   
 <a name="presentation"></a>  
 
@@ -66,11 +68,16 @@ ___
 </a> <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.svgporn.com/logos/hibernate.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+### My top open source projects:
 <div align="center">
 <a href="https://github.com/Petrovich-A/CNC-programs-storage"><img src="https://gh-card.dev/repos/Petrovich-A/CNC-programs-storage.svg"></a>
 <a href="https://github.com/Petrovich-A/JavaFXgruvbox_light"><img src="https://gh-card.dev/repos/Petrovich-A/JavaFX.svg"></a>
+</div>
+
+### Some statistics:
+<div align="center">
 
 ![Petrovich-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petrovich-A&show_icons=true&theme=gruvbox_light)
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrovich-A&layout=compact&theme=gruvbox_light)
 </div>
