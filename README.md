@@ -1,7 +1,7 @@
 <div align="center">
   
 ![Systems and technology programming company logo_cr](https://user-images.githubusercontent.com/75426047/207108590-3e090c72-decd-4a00-9d85-8d0141e39970.png)
- 
+
 <p>
 <a href="https://www.linkedin.com/in/petroviсh-alexаndr/" target="blank">
 <img align="center" src="https://static.cdn.wisestamp.com/wp-content/uploads/2020/06/connect-with-me-linkedin-button.png" alt="gfhfgh" height="60" width="190" /></a>
@@ -26,6 +26,21 @@
 
 ### Self-presentation                
 <a name="presentation"></a>  
+
+Simply put:
+
+```java
+boolean isJobOfferObtained = false;
+        
+while (!isJobOfferObtained && individual.isStillAlive){
+     codingALot(IntelliJIDEA intellijIdea);
+     eatSnack(Cookie cookie);
+     readDocumentation(Oracle oracle);
+     getBriefBreak();
+     learnTheory(new BooK("Thinking In Java", "Bruce Eckel"));
+     getSomeSleep();
+}
+```
 
 Hi there 👋 I’m Alexandr :bowtie: I'm a CNC programmer with over 10 years of practical experience, specialized in launching units into production. Our compamny is the major global manufacturer of mining dump trucks. Working with coworkers in our department we deal with designing CNC machinery programs (applying G-code is a programming language for CNC machines) with following adjustment the machine for processing parts.
 
