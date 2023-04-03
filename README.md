@@ -58,6 +58,11 @@ After looking at several programming languages I've chosen **Java** :100: Presen
 My most recent resume is available at the link below :arrow_down:
 
 https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf
+
+<object data="https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf">
+    </embed>
+</object>
 ___
 
 ### Here are some ideas that assosiatiated:
