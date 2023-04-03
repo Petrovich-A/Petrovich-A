@@ -42,7 +42,11 @@ while (!isJobOfferObtained && individual.isStillAlive){
 }
 ```
 
-Hi there 👋 I’m Alexandr :bowtie: I'm a CNC programmer with over 10 years of practical experience, specialized in launching units into production. Our compamny is the major global manufacturer of mining dump trucks. Working with coworkers in our department we deal with designing CNC machinery programs (applying G-code is a programming language for CNC machines) with following adjustment the machine for processing parts.
+Hi there 👋
+
+I’m Alexandr :bowtie:
+
+I'm a CNC programmer with over 10 years of practical experience, specialized in launching units into production. Our compamny is the major global manufacturer of mining dump trucks. Working with coworkers in our department we deal with designing CNC machinery programs (applying G-code is a programming language for CNC machines) with following adjustment the machine for processing parts.
 
 One upon time, while tightening :wrench: a regular nut for 32:nut_and_bolt: at work, I realized that I **want more from life**. 
 
@@ -50,6 +54,9 @@ However, taken by the idea of coding seeking new opportunities to change special
 I chose to work in IT sphere because I've always been genuinely interested in technology, especially how fast it evolves. I want to be involved in the creation of something new. Consequently, I got involved into programming and would like to become a reliable team member growing into a confident professional developer in a year-two.
 
 After looking at several programming languages I've chosen **Java** :100: Presently, I combine job’s duties with java learning.
+
+My most recent resume is available at the link below :arrow_down:
+https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf
 ___
 
 ### Here are some ideas that assosiatiated:
