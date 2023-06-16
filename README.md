@@ -56,8 +56,7 @@ I chose to work in IT sphere because I've always been genuinely interested in te
 After looking at several programming languages I've chosen **Java** :100: Presently, I combine job’s duties with java learning.
 
 My most recent resume is available at the link below :arrow_down:
-
-https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf
+[Alexandr_Petrovich_Java_dev_resume](https://drive.google.com/file/d/1-N0NiznFgw6ZMHp4P8JGOwifWuWiM2-J/view?usp=sharing.)
 
 <object data="https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf">
