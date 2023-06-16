@@ -100,7 +100,7 @@ ___
 </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/> </a>
 </a> <a href="https://swagger.io" target="_blank" rel="noreferrer">
-<img src="https://logovtor.com/swagger-supported-by-smartbear-logo-vector-svg" alt="postgresql" width="55" height="55"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="55" height="55"/> </a>
 </p>
 </div>
 
