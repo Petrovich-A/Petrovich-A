@@ -30,43 +30,38 @@
 Simply put:
 
 ```java
-boolean isJobOfferObtained = false;
+boolean isJobOfferExist = false;
         
-while (!isJobOfferObtained && individual.isStillAlive){
-     codingALot(IntelliJIDEA intellijIdea);
-     eatSnack(Cookie cookie);
+while (!isJobOfferExist && person.isAlive){
+     coding(IntelliJIDEA intellijIdea);
+     eat(Food food);
      readDocumentation(Oracle oracle);
-     getBriefBreak();
+     takeBreak();
      learnTheory(new BooK("Thinking In Java", "Bruce Eckel"));
-     getSomeSleep();
+     takeNap();
 }
 ```
 
-Hi there 👋
+Hi there 👋 I’m Alexandr :bowtie:
 
-I’m Alexandr :bowtie:
+I am a CNC programmer with over 10 years of practical experience. I specialize in launching units into production for our company, which is a major global manufacturer of mining dump trucks. In my department, I deal with writing NC programs applying G-code as a programming language for CNC machines, and adjusting the machine for processing parts.
 
-I'm a CNC programmer with over 10 years of practical experience, specialized in launching units into production. Our compamny is the major global manufacturer of mining dump trucks. Working with coworkers in our department we deal with designing CNC machinery programs (applying G-code is a programming language for CNC machines) with following adjustment the machine for processing parts.
+One day, while tightening 🔧 a regular nut for 32🔩 at work, I realized that I **want more from life**. Driven by the idea of coding, I sought new opportunities to change my specialization and grow as a **Java developer**. I chose to work in the IT sphere cause I have always been genuinely interested in technology, especially how fast it evolves. I want to be involved in the creation of something new. Consequently, I got involved in programming and would like to become a reliable team member, growing into a confident professional developer in a year or two.
 
-One upon time, while tightening :wrench: a regular nut for 32:nut_and_bolt: at work, I realized that I **want more from life**. 
-
-However, taken by the idea of coding seeking new opportunities to change specialization and to grow as a **Java developer**. 
-I chose to work in IT sphere because I've always been genuinely interested in technology, especially how fast it evolves. I want to be involved in the creation of something new. Consequently, I got involved into programming and would like to become a reliable team member growing into a confident professional developer in a year-two.
-
-After looking at several programming languages I've chosen **Java** :100: Presently, I combine job’s duties with java learning.
+After considering several programming languages, I chose **Java** as my primary focus. Currently, I combine my job's duties with Java learning.
 
 My most recent resume is available at the link below :arrow_down:
+
 [Alexandr_Petrovich_Java_dev_resume](https://drive.google.com/file/d/1-N0NiznFgw6ZMHp4P8JGOwifWuWiM2-J/view?usp=sharing.)
 
 <object data="https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf">
     </embed>
 </object>
-___
 
 # Here are some ideas that assosiatiated:
 
-- 🔭 I’m currently working on [E-shop app](https://github.com/Petrovich-A/E-shop)
+- 🔭 I’m currently working on [E-shop app](https://github.com/Petrovich-A/E-shop).
 - 🌱 Currently concentrated on Java learning, ameliorating my web application design proficiency with Spring Framework and Hibernate technology. No doubt, Enterprise Java Development is not the easiest thing, however I'd like to be part of a company that invents new software products and makes the customer's business easier and more efficient.
 - :construction_worker: My previose position taught me to work independently without excessive anxiety of colleagues on minor occasions. I'm able to  find solutions of task by myself.
 - :heavy_check_mark: Reading someone else's code is not scary for me. For instance, I'm used to adjust machine cutting paths or settings to optimize production for achieving required products quality. I have huge of experience in troubleshooting issues during the manufacturing process.
