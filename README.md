@@ -95,6 +95,8 @@ My most recent resume is available at the link below :arrow_down:
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/> </a>
 </a> <a href="https://swagger.io" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="55" height="55"/> </a>
+</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
 </p>
 </div>
 
