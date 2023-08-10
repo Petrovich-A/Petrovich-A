@@ -34,7 +34,7 @@ boolean isJobOfferExist = false;
         
 while (!isJobOfferExist && person.isAlive){
      coding(IntelliJIDEA intellijIdea);
-     eat(Food food);
+     eat(Snack snack);
      readDocumentation(Oracle oracle);
      takeBreak();
      learnTheory(new BooK("Thinking In Java", "Bruce Eckel"));
@@ -61,7 +61,7 @@ My most recent resume is available at the link below :arrow_down:
 
 # Here are some ideas that assosiatiated:
 
-- 🔭 I’m currently working on [E-shop app](https://github.com/Petrovich-A/E-shop).
+- 🔭 I’m currently working on [Train-lab-intern](https://github.com/Train-lab-intern/backend_dev).
 - 🌱 Currently concentrated on Java learning, ameliorating my web application design proficiency with Spring Framework and Hibernate technology. No doubt, Enterprise Java Development is not the easiest thing, however I'd like to be part of a company that invents new software products and makes the customer's business easier and more efficient.
 - :construction_worker: My previose position taught me to work independently without excessive anxiety of colleagues on minor occasions. I'm able to  find solutions of task by myself.
 - :heavy_check_mark: Reading someone else's code is not scary for me. For instance, I'm used to adjust machine cutting paths or settings to optimize production for achieving required products quality. I have huge of experience in troubleshooting issues during the manufacturing process.
