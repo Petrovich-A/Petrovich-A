@@ -1,6 +1,6 @@
 <div align="center">
-  
-![Systems and technology programming company logo_cr](https://user-images.githubusercontent.com/75426047/207108590-3e090c72-decd-4a00-9d85-8d0141e39970.png)
+
+![Petrovich README logo2](https://github.com/Petrovich-A/Petrovich-A/assets/75426047/b4d88ae9-46a0-4b58-9e94-4c28ec6612d3)
 
 <p>
 <a href="https://www.linkedin.com/in/petroviсh-alexаndr/" target="blank">
