@@ -27,20 +27,12 @@
 # Self-presentation                
 <a name="presentation"></a>  
 
-Simply put:
+<div align="center">
 
-```java
-boolean isJobOfferExist = false;
-        
-while (!isJobOfferExist && person.isAlive){
-     coding(IntelliJIDEA intellijIdea);
-     eat(Snack snack);
-     readDocumentation(Oracle oracle);
-     takeBreak();
-     learnTheory(new BooK("Thinking In Java", "Bruce Eckel"));
-     takeNap();
-}
-```
+![code1](https://github.com/Petrovich-A/Petrovich-A/assets/75426047/365cefc9-f43e-421f-af51-06250f6c8ca1)
+
+
+</div>
 
 Hi there 👋 I’m Alexandr :bowtie:
 
