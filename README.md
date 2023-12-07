@@ -98,8 +98,9 @@ My most recent resume is available at the link below :arrow_down:
 <a name="projects"></a>  
 
 <div align="center">
-<a href="https://github.com/Petrovich-A/CNC-programs-storage"><img src="https://gh-card.dev/repos/Petrovich-A/CNC-programs-storage.svg"></a>
-<a href="https://github.com/Petrovich-A/E-shop"><img src="https://gh-card.dev/repos/Petrovich-A/E-shop.svg"></a>
+  <a href="https://github.com/Petrovich-A/Measuring-Tool"><img src="https://gh-card.dev/repos/Petrovich-A/Measuring-Tool.svg"></a> 
+  <a href="https://github.com/Petrovich-A/E-shop"><img src="https://gh-card.dev/repos/Petrovich-A/E-shop.svg"></a>  
+  <a href="https://github.com/Petrovich-A/CNC-programs-storage"><img src="https://gh-card.dev/repos/Petrovich-A/CNC-programs-storage.svg"></a>
 </div>
 
 # Some statistics:
