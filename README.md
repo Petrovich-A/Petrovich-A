@@ -13,8 +13,12 @@
 
 <!-- Badges -->
 <p>
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Petrovich-A/JavaFX">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Petrovich-A/JavaFX">
+<img alt="Static Badge" src="https://img.shields.io/badge/awesome-blue?style=flat&logo=awesomelists&logoColor=black&labelColor=white">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Petrovich-A/Petrovich-A">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Petrovich-A/Petrovich-A">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Petrovich-A">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Petrovich-A/Petrovich-A">
+  
 </p>
   
 </div>
