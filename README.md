@@ -20,6 +20,7 @@
 </div>
 
 * [Self-presentation](#presentation)
+* [Resume](#resume)
 * [Languages and Tools](#stack)
 * [My top pet projects](#projects)
 * [Some statistics](#statistics)
@@ -42,9 +43,12 @@ One day, while tightening 🔧 a regular nut for 32🔩 at work, I realized that
 
 After considering several programming languages, I chose **Java** as my primary focus. Currently, I combine my job's duties with Java learning.
 
-My most recent resume is available at the link below :arrow_down:
+# Resume                
+<a name="resume"></a>
 
 ![Alexandr_Petrovich_Java_CV](https://github.com/Petrovich-A/Petrovich-A/assets/75426047/ac12ff99-68bf-4f64-a31e-e295d53ee119)
+
+My most recent resume is available at the link below :arrow_down:
 
 [Alexandr_Petrovich_Java_dev_resume.pdf](https://drive.google.com/file/d/1-N0NiznFgw6ZMHp4P8JGOwifWuWiM2-J/view?usp=sharing.)
 
