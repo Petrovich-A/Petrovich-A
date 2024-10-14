@@ -5,7 +5,7 @@
 <p>
 <a href="https://www.linkedin.com/in/petroviсh-alexаndr/" target="blank">
 <img align="center" src="https://static.cdn.wisestamp.com/wp-content/uploads/2020/06/connect-with-me-linkedin-button.png" alt="gfhfgh" height="60" width="190" /></a>
-<a href="https://instagram.com/fhf](https://instagram.com/john_.shade?igshid=YmMyMTA2M2Y=" target="blank">
+<a href="[https://instagram.com/fhf](https://www.instagram.com/john_.shade/)](https://instagram.com/john_.shade?igshid=YmMyMTA2M2Y=" target="blank">
 <img align="center" src="https://static.cdn.wisestamp.com/wp-content/uploads/2020/06/follow-us-on-istagram-button.jpeg" alt="fhf" height="60" width="190" /></a>
 <a href="https://instagram.com/fhf](https://www.gmail.com" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="fhf" height="60" width="60" /></a>
