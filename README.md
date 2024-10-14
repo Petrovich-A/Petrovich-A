@@ -27,7 +27,6 @@
 
 * [Self-presentation](#presentation)
 * [Languages and Tools](#stack)
-* [My top pet projects](#projects)
 * [Some statistics](#statistics)
 
 # Self-presentation                
@@ -78,16 +77,6 @@ I specialize in building web applications using Java, with a strong focus on bac
 </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
 </p>
-</div>
-
-# My top pet projects:
-<a name="projects"></a>  
-
-<div align="center">
-  <a href="https://github.com/Petrovich-A/Reminder"><img src="https://gh-card.dev/repos/Petrovich-A/Reminder.svg"></a> 
-  <a href="https://github.com/Petrovich-A/Measuring-Tool"><img src="https://gh-card.dev/repos/Petrovich-A/Measuring-Tool.svg"></a> 
-  <a href="https://github.com/Petrovich-A/E-shop"><img src="https://gh-card.dev/repos/Petrovich-A/E-shop.svg"></a>  
-  <a href="https://github.com/Petrovich-A/CNC-programs-storage"><img src="https://gh-card.dev/repos/Petrovich-A/CNC-programs-storage.svg"></a>
 </div>
 
 # Some statistics:
