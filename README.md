@@ -26,7 +26,6 @@
 </div>
 
 * [Self-presentation](#presentation)
-* [Resume](#resume)
 * [Languages and Tools](#stack)
 * [My top pet projects](#projects)
 * [Some statistics](#statistics)
@@ -48,20 +47,6 @@ I am a CNC programmer with over 10 years of practical experience. I specialize i
 One day, while tightening 🔧 a regular nut for 32🔩 at work, I realized that I **want more from life**. Driven by the idea of coding, I sought new opportunities to change my specialization and grow as a **Java developer**. I chose to work in the IT sphere cause I have always been genuinely interested in technology, especially how fast it evolves. I want to be involved in the creation of something new. Consequently, I got involved in programming and would like to become a reliable team member, growing into a confident professional developer in a year or two.
 
 After considering several programming languages, I chose **Java** as my primary focus. Currently, I combine my job's duties with Java learning.
-
-# Resume                
-<a name="resume"></a>
-
-![Alexandr_Petrovich_Java_CV](https://github.com/Petrovich-A/Petrovich-A/assets/75426047/ac12ff99-68bf-4f64-a31e-e295d53ee119)
-
-My most recent resume is available at the link below :arrow_down:
-
-[Alexandr_Petrovich_Java_dev_resume.pdf](https://drive.google.com/file/d/1-N0NiznFgw6ZMHp4P8JGOwifWuWiM2-J/view?usp=sharing.)
-
-<object data="https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/Petrovich-A/Petrovich-A/blob/master/Alexandr_Petrovich_Java_dev_CV.pdf">
-    </embed>
-</object>
 
 # Here are some ideas that assosiatiated:
 
