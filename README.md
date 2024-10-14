@@ -35,20 +35,18 @@
 
 Hi there 👋 I’m Alexandr :bowtie:
 
-I am a CNC programmer with over 10 years of practical experience. I specialize in launching units into production for our company, which is a major global manufacturer of mining dump trucks. In my department, I deal with writing NC programs applying G-code as a programming language for CNC machines, and adjusting the machine for processing parts.
+I’m a Java developer with over 3 years of professional experience. My journey into development began after more than a decade as a CNC programmer ⚙️, where I honed my problem-solving skills and attention to detail. Driven by my passion for technology and a desire to create impactful software, I transitioned into Java development.
 
-One day, while tightening 🔧 a regular nut for 32🔩 at work, I realized that I **want more from life**. Driven by the idea of coding, I sought new opportunities to change my specialization and grow as a **Java developer**. I chose to work in the IT sphere cause I have always been genuinely interested in technology, especially how fast it evolves. I want to be involved in the creation of something new. Consequently, I got involved in programming and would like to become a reliable team member, growing into a confident professional developer in a year or two.
+I specialize in building web applications using Java, with a strong focus on backend development. My expertise includes working with the Spring Framework, Hibernate, and relational databases like PostgreSQL. I'm proficient in designing REST APIs, implementing business logic, and optimizing performance in enterprise-level applications.
 
-After considering several programming languages, I chose **Java** as my primary focus. Currently, I combine my job's duties with Java learning.
+# Here’s a bit more about me:
 
-# Here are some ideas that assosiatiated:
-
-- 🔭 I’m currently working on [Train-lab-intern](https://github.com/Train-lab-intern/backend_dev).
-- 🌱 Currently concentrated on Java learning, ameliorating my web application design proficiency with Spring Framework and Hibernate technology. No doubt, Enterprise Java Development is not the easiest thing, however I'd like to be part of a company that invents new software products and makes the customer's business easier and more efficient.
-- :construction_worker: My previose position taught me to work independently without excessive anxiety of colleagues on minor occasions. I'm able to  find solutions of task by myself.
-- :heavy_check_mark: Reading someone else's code is not scary for me. For instance, I'm used to adjust machine cutting paths or settings to optimize production for achieving required products quality. I have huge of experience in troubleshooting issues during the manufacturing process.
-- :muscle: My interpersonale skills is my strenght. I'm taught myself to use my empathy and build work relations with colleagues of different personality types.
-- :chart_with_upwards_trend: I believe people can change through working hard and getting out of your comfort zone.
+- 🔭 I’m currently working on enhancing my skills through real-world projects, developing web applications with Java and Spring.
+- 🌱 Continuously improving my knowledge of modern Java technologies, particularly in the areas of microservices, Spring Boot, and cloud deployment.
+- ✔️ I’m confident in reading and refactoring code, optimizing performance, and ensuring code quality through unit and integration testing.
+- 👷 My previous career taught me to work independently and think critically, skills that help me tackle complex development tasks efficiently.
+- 💪 Strong collaboration and communication skills have enabled me to work effectively in cross-functional teams, contributing to both technical discussions and team dynamics.
+- 📈 I’m committed to growing as a professional Java developer and am eager to contribute to a forward-thinking team, building innovative solutions that make an impact.
 
 # Languages and Tools:
 <a name="stack"></a>  
