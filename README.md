@@ -33,13 +33,6 @@
 # Self-presentation                
 <a name="presentation"></a>  
 
-<div align="center">
-
-![code1](https://github.com/Petrovich-A/Petrovich-A/assets/75426047/365cefc9-f43e-421f-af51-06250f6c8ca1)
-
-
-</div>
-
 Hi there 👋 I’m Alexandr :bowtie:
 
 I am a CNC programmer with over 10 years of practical experience. I specialize in launching units into production for our company, which is a major global manufacturer of mining dump trucks. In my department, I deal with writing NC programs applying G-code as a programming language for CNC machines, and adjusting the machine for processing parts.
