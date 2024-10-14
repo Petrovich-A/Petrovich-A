@@ -10,7 +10,7 @@
 <img align="center" src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" alt="instagram-button" height="60" /></a>
 
 <a href="https://www.gmail.com" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail-button" height="60" width="50" /></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail-button" height="60" width="60" /></a>
 </p>
 
 <!-- Badges -->
