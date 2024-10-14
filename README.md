@@ -4,10 +4,10 @@
 
 <p>
 <a href="[https://www.linkedin.com/in/petroviсh-alexаndr/](https://www.linkedin.com/in/alexandr-petrovich/)" target="blank">
-<img align="center" src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="linkedin-button" height="60" width="190" /></a>
+<img align="center" src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="linkedin-button" /></a>
   
 <a href="[https://www.instagram.com/john_.shade/](https://www.instagram.com/john_.shade/)" target="blank">
-<img align="center" src="https://icons8.com/icon/nj0Uj45LGUYh/instagram" alt="fhf" height="60" width="190" /></a>
+<img align="center" src="[https://icons8.com/icon/nj0Uj45LGUYh/instagram](https://icons8.com/icon/nj0Uj45LGUYh/instagram)" alt="fhf" height="60" width="190" /></a>
 
 <a href="https://instagram.com/fhf](https://www.gmail.com" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="fhf" height="60" width="60" /></a>
