@@ -1,6 +1,6 @@
 <div align="center">
 
-![Petrovich README logo2](https://github.com/Petrovich-A/Petrovich-A/assets/75426047/b4d88ae9-46a0-4b58-9e94-4c28ec6612d3)
+![petrovich-logo](https://github.com/user-attachments/assets/5eee0a63-b7f1-4335-850f-6e99ac1c0950)
 
 <p>
 <a href="https://www.linkedin.com/in/alexandr-petrovich/" target="_blank">
