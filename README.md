@@ -68,13 +68,10 @@ I specialize in building web applications using Java, with a strong focus on bac
       <img src="https://spring.io/img/projects/spring-security.svg" alt="spring-security" width="55" height="55"/> 
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="apache_maven" width="110" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="apache_maven" width="55" height="55"/> 
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="gradle" width="110" height="55"/> 
-    </a>  
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="55" height="55"/> 
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
@@ -86,7 +83,7 @@ I specialize in building web applications using Java, with a strong focus on bac
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> 
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> 
+      <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="mysql" width="55" height="55"/> 
     </a>    
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.svgporn.com/logos/hibernate.svg" alt="hibernate" width="55" height="55"/> 
@@ -105,7 +102,6 @@ I specialize in building web applications using Java, with a strong focus on bac
     </a>
   </p>
 </div>
-
 
 # Statistics:
 <a name="statistics"></a>  
