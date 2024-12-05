@@ -48,65 +48,65 @@ I specialize in building web applications using Java, with a strong focus on bac
 - 📈 I’m committed to growing as a professional Java developer and am eager to contribute to a forward-thinking team, building innovative solutions that make an impact.
 
 # Tech stack:
-<a name="stack"></a>  
+<a name="stack"></a>
 
 <div align="center">
   <p>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://spring.io/img/projects/spring-framework.svg?v=2" alt="spring-framework" width="110" height="55"/> 
+      <img src="https://spring.io/img/projects/spring-framework.svg?v=2" alt="spring-framework" width="110" height="55"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="55" height="55"/> 
+      <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="55" height="55"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img src="https://spring.io/img/projects/spring-data.svg" alt="spring-data" width="55" height="55"/> 
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://spring.io/img/projects/spring-security.svg" alt="spring-security" width="55" height="55"/> 
+      <img src="https://spring.io/img/projects/spring-security.svg" alt="spring-security" width="55" height="55"/>
     </a>
     <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="apache_maven" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="apache_maven" width="55" height="55"/>
     </a>
     <a href="https://gradle.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="55" height="55"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="mysql" width="55" height="55"/> 
-    </a>    
+    </a>
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.svgporn.com/logos/hibernate.svg" alt="hibernate" width="55" height="55"/> 
     </a>
     <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
     </a>
     <a href="https://swagger.io" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="55" height="55"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="55" height="55"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
     </a>
   </p>
 </div>
 
 # Statistics:
-<a name="statistics"></a>  
+<a name="statistics"></a>
 
 <div align="left">
 
 ![Petrovich-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petrovich-A&bg_color=#2a446b&title_color=fff&text_color=fff&show_icons=true)
-<br>  
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrovich-A&layout=compact&theme=gruvbox_light)
-  
+
 </div>
