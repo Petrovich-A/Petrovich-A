@@ -56,7 +56,7 @@ I specialize in building web applications using Java, with a strong focus on bac
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>
     </a>
     <a href="https://spring.io/" target="blank" rel="noopener">
-      <img src="https://spring.io/img/projects/spring-framework.svg?v=2" alt="spring-framework" width="110" height="55"/>
+      <img src="https://spring.io/img/projects/spring-framework.svg?v=2" alt="spring-framework" width="55" height="55"/>
     </a>
     <a href="https://spring.io/" target="blank" rel="noopener">
       <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="55" height="55"/>
