@@ -67,18 +67,15 @@ I specialize in building web applications using Java, with a strong focus on bac
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img src="https://spring.io/img/projects/spring-security.svg" alt="spring-security" width="55" height="55"/> 
     </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="apache_maven" width="55" height="55"/> 
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <a href="https://gradle.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="55" height="55"/> 
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> 
-    </a>   
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> 
     </a>
