@@ -76,9 +76,6 @@ I specialize in building web applications using Java, with a strong focus on bac
     <a href="https://git-scm.com/" target="blank" rel="noopener">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
     </a>
-    <a href="https://www.w3.org/html/" target="blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
-    </a>
     <a href="https://www.mysql.com/" target="blank" rel="noopener">
       <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="mysql" width="55" height="55"/> 
     </a>
