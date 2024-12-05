@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/alexandr-petrovich/" target="_blank">
-<img align="center" src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="linkedin-button" height="60" /></a>
+<img align="center" src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="linkedin-button" height="65" /></a>
   
 <a href="https://www.instagram.com/john_.shade/" target="_blank">
 <img align="center" src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" alt="instagram-button" height="60" /></a>
