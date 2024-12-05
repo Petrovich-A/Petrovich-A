@@ -1,6 +1,6 @@
 <div align="center">
 
-![Trust The Idea Logo1](https://github.com/user-attachments/assets/8981c5c4-969e-410e-b2af-7d41ef71b5ab)
+![AP logo for github](https://github.com/user-attachments/assets/d8264d4d-4a0b-4643-b26a-4cd0c3d3f278)
 
 <p>
 <a href="https://www.linkedin.com/in/alexandr-petrovich/" target="_blank">
