@@ -10,7 +10,7 @@
 <img align="center" src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" alt="instagram-button" height="60" /></a>
 
 <a href="mailto:a.petrovich.wrk@gmail.com?subject=Тема письма&body=Текст сообщения" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail-button" height="60" width="60" /></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail-button" height="50" /></a>
 </p>
 
 <!-- Badges -->
@@ -62,7 +62,7 @@ I specialize in building web applications using Java, with a strong focus on bac
       <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="55" height="55"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://spring.io/img/projects/spring-data.svg" alt="spring-data" width="55" height="55"/> 
+      <img src="https://spring.io/img/projects/spring-data.svg" alt="spring-data" width="55" height="55" />
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img src="https://spring.io/img/projects/spring-security.svg" alt="spring-security" width="55" height="55"/>
