@@ -1,8 +1,6 @@
 <div align="center">
 
-![AP logo for github (1)](https://github.com/user-attachments/assets/e5e210a8-fda3-4c8a-930b-2f423dbb7e5e)
 ![Alexandr Petrovich 2000х600](https://github.com/user-attachments/assets/7c9697f1-c9db-4195-aef7-5f5029dc1b8c)
-
 
 <p>
 <a href="https://www.linkedin.com/in/alexandr-petrovich/" target="_blank">
